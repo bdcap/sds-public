@@ -1,0 +1,36 @@
+---
+title: "SDS Software"
+date: "September 7, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Software used by SDS classes
+
+These applications should be installed on the Science image, particularly on the lectern computer in Sabin Reed 301.
+
+**All software should be the lastest general available release unless otherwise noted**
+
+### SDS 136
+
+### SDS 192
+
+* [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+* [GDAL](http://trac.osgeo.org/gdal/wiki/DownloadingGdalBinaries)
+
+### SDS 220
+
+* [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)
+* [R](https://cran.r-project.org/bin/)
+
+### SDS 291
+
+### SDS 293
+
+### R packages
+
+See [R packages used by SDS](sds_r_packages.Rmd)
+
