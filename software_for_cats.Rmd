@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 These applications should be installed on the Science image, particularly on the lectern computer in Sabin Reed 301.
 
-**All software should be the lastest general available release unless otherwise noted**
+**All software should be the latest general available (GA) release unless otherwise noted**
 
 ### SDS 136
 
