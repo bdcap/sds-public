@@ -1,2 +1,4 @@
-# sds-public
-Public repository for Smith College SDS
+sds-public
+================
+
+Public documents for use by SDS
