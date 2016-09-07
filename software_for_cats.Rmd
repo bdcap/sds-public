@@ -30,6 +30,11 @@ These applications should be installed on the Science image, particularly on the
 
 ### SDS 293
 
+* [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)
+* [R](https://cran.r-project.org/bin/)
+* [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Spotify](https://www.spotify.com/us/download/)
+
 ### R packages
 
 See [R packages used by SDS](sds_r_packages.Rmd)
