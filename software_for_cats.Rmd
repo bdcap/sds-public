@@ -16,6 +16,8 @@ These applications should be installed on the Science image, particularly on the
 
 ### SDS 136
 
+* [Tableau](http://www.tableau.com) - if we ever got a site license for it; I know CATS was talking about it
+
 ### SDS 192
 
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
@@ -35,9 +37,11 @@ These applications should be installed on the Science image, particularly on the
 
 ### SDS 293
 
+* [Python3](https://www.python.org/) - I personally like the [Anaconda](https://www.continuum.io/downloads) distribution for this course, but I can made do with most things.
 
 
 ### R packages
 
 See [R packages used by SDS](sds_r_packages.Rmd)
-
+* [ISLR](https://cran.r-project.org/web/packages/ISLR/index.html)
+* [MASS](https://cran.r-project.org/web/packages/MASS/index.html)
