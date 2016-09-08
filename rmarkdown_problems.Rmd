@@ -62,3 +62,6 @@ If you're having trouble getting the formatting correct, you can always click th
 
 This means that RStudio doesn't understand your document is supposed to be an RMarkdown document, often because your file extension is .txt. To fix this, go to the Files tab (lower right corner, same pane as Plots and Help) and select the checkbox next to your document's name. Then select Rename and remove the .txt and make sure the extension is .Rmd. 
 
+## Getting more help
+
+When in doubt, consult the authoritative source. The R Markdown website contains a [detailed tutorial with videos](http://rmarkdown.rstudio.com/lesson-1.html). There are also Cheatsheets available from within RStudio. Simply go to: `Help -> Cheatsheets -> R Markdown Cheat Sheet` for the most commonly-used R Markdown commands.
