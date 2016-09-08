@@ -4,10 +4,6 @@ date: "September 7, 2016"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Software used by SDS classes
 
 These applications should be installed on the Science image, particularly on the lectern computer in Sabin Reed 301.
