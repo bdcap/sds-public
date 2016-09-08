@@ -39,5 +39,3 @@ These applications should be installed on the Science image, particularly on the
 ### R packages
 
 See [R packages used by SDS](sds_r_packages.Rmd)
-* [ISLR](https://cran.r-project.org/web/packages/ISLR/index.html)
-* [MASS](https://cran.r-project.org/web/packages/MASS/index.html)
