@@ -97,6 +97,25 @@ data(ames)
 head(ames)
 ```
 
+- Incorrect [file path](https://en.wikipedia.org/wiki/Path_(computing)). Note that absolute filenames like
+```{r}
+read.csv("/home/bbaumer/sds220/data/my_data.csv")
+```
+will not work on anyone else's computer. It is usually better to use a relative file path like:
+```{r, eval=FALSE}
+read.csv("~/sds220/data/my_data.csv")
+```
+  However this will only works if someone else has the same directory structure as you. 
+  Note also that the working directory of the R session in which your Markdown document knits is not necessarily the same as the working directory of the R session which you see in RStudio. Thus, if 
+```{r, eval=FALSE}
+read.csv("my_data.csv")
+```
+doesn't work, you may have to try
+```{r, eval=FALSE}
+read.csv("project/my_data.csv")
+```
+or something along those lines. 
+
 ## Code not being evaluated
 
 If you have code showing up in your document like this
